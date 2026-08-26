@@ -1,4 +1,4 @@
-const CACHE_NAME = "original-evidence-desk-v3";
+const CACHE_NAME = "original-evidence-desk-v4";
 const APP_ROOT = new URL("./", self.location.href).pathname;
 const appAsset = (name) => `${APP_ROOT}${name}`;
 const STATIC_SHELL = [
